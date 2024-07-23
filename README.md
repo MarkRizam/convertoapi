@@ -133,7 +133,20 @@ pipeline {
             cleanWs()
         }
     }
-}
+} 
+
+
+### How to Add This to Your Git Repository
+
+1. Save the `deploy.sh` script in the root of your project repository.
+2. Save the `Jenkinsfile` in the root of your project repository.
+3. Push the changes to your Git repository:
+   ```sh
+   git add deploy.sh Jenkinsfile README.md
+   git commit -m "Added deployment script and Jenkins pipeline configuration"
+   git push origin main
+
+
 Interacting with the API
 API Endpoints
 Convert Number to Words
