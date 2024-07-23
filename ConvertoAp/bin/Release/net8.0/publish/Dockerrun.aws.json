@@ -1,0 +1,17 @@
+{
+  "AWSEBDockerrunVersion": 3,
+  "containerDefinitions": [
+    {
+      "name": "converto-api",
+      "image": "637423371804.dkr.ecr.ap-southeast-2.amazonaws.com/converto-api:latest",
+      "essential": true,
+      "memory": 128,
+      "portMappings": [
+        {
+          "hostPort": 80,
+          "containerPort": 80
+        }
+      ]
+    }
+  ]
+}

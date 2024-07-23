@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConvertoApi</name>
+    </assembly>
+    <members>
+        <member name="T:ConvertoApi.Controllers.ConvertController">
+            <summary>
+            Controller for converting numbers to words.
+            </summary>
+        </member>
+        <member name="M:ConvertoApi.Controllers.ConvertController.ConvertNumberToWords(ConvertoApi.Models.NumberInput)">
+             ----------------------------------------------------------------------------------------------------------------
+             * Method Description : Converts a numerical input into words.
+             ----------------------------------------------------------------------------------------------------------------
+             * Change Summary
+             * --------------
+               ID                Changed By         Changed On      Change Description
+            *=======             ==========         ==========      ==================
+            *RZM-127                Rizam          19-July-2024     Converts a numerical input into words Controller
+             
+            <summary>
+            Converts a numerical input into words.
+            </summary>
+            <param name="input">The numerical input to be converted.</param>
+            <returns>The words representation of the numerical input.</returns>
+            <response code="200">Returns the words representation of the numerical input</response>
+            <response code="400">If the input is invalid</response>
+        </member>
+        <member name="T:ConvertoApi.Models.NumberInput">
+            <summary>
+            Represents the input model for converting numbers to words.
+            </summary>
+        </member>
+        <member name="P:ConvertoApi.Models.NumberInput.Number">
+             <summary>
+             ----------------------------------------------------------------------------------------------------------------
+             * Method Description : The number to be converted to words.
+             ----------------------------------------------------------------------------------------------------------------
+             * Change Summary
+             * --------------
+               ID                Changed By         Changed On      Change Description
+            *=======             ==========         ==========      ==================
+            *RZM-127                Rizam          19-July-2024     The number to be converted to words Model
+            
+             </summary>
+        </member>
+        <member name="T:ConvertoApi.Utilities.NumberConverter">
+             <summary>
+             ----------------------------------------------------------------------------------------------------------------
+             * Method Description : Utility class for converting numbers to words.
+             ----------------------------------------------------------------------------------------------------------------
+             * Change Summary
+             * --------------
+               ID                Changed By         Changed On      Change Description
+            *=======             ==========         ==========      ==================
+            *RZM-127                Rizam          19-July-2024     Number to word conversion without NuGet
+            
+             </summary>
+        </member>
+        <member name="M:ConvertoApi.Utilities.NumberConverter.Convert(System.Decimal)">
+            <summary>
+            Converts a decimal number to its words representation.
+            </summary>
+            <param name="number">The decimal number to convert.</param>
+            <returns>The words representation of the decimal number.</returns>
+        </member>
+    </members>
+</doc>

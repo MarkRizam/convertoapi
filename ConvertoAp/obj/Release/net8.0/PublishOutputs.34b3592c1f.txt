@@ -1,0 +1,15 @@
+C:\Users\markr\Document\React\ConvertoApi\publish\ConvertoApi.exe
+C:\Users\markr\Document\React\ConvertoApi\publish\appsettings.Development.json
+C:\Users\markr\Document\React\ConvertoApi\publish\appsettings.json
+C:\Users\markr\Document\React\ConvertoApi\publish\auth.json
+C:\Users\markr\Document\React\ConvertoApi\publish\Dockerrun.aws.json
+C:\Users\markr\Document\React\ConvertoApi\publish\ConvertoApi.dll
+C:\Users\markr\Document\React\ConvertoApi\publish\ConvertoApi.deps.json
+C:\Users\markr\Document\React\ConvertoApi\publish\ConvertoApi.runtimeconfig.json
+C:\Users\markr\Document\React\ConvertoApi\publish\ConvertoApi.pdb
+C:\Users\markr\Document\React\ConvertoApi\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\markr\Document\React\ConvertoApi\publish\Microsoft.OpenApi.dll
+C:\Users\markr\Document\React\ConvertoApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\markr\Document\React\ConvertoApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\markr\Document\React\ConvertoApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\markr\Document\React\ConvertoApi\publish\ConvertoApi.xml

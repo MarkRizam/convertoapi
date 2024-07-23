@@ -1,0 +1,13 @@
+
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "637423371804.dkr.ecr.ap-southeast-2.amazonaws.com/convertoapi:latest",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "80"
+    }
+  ]
+}

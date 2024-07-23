@@ -1,0 +1,14 @@
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\ConvertoApi.exe
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\appsettings.json
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\Dockerrun.aws.json
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\ConvertoApi.dll
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\ConvertoApi.deps.json
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\ConvertoApi.runtimeconfig.json
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\ConvertoApi.pdb
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\markr\Document\React\ConvertoApi\bin\Release\net8.0\publish\ConvertoApi.xml
