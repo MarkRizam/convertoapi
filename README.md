@@ -171,3 +171,8 @@ ConvertoApi/
 │   └── NumberToWordsService.cs
 ├── Dockerfile
 └── README.md
+
+References:
+front end git : https://github.com/MarkRizam/converto.git
+front end URL : https://converto.s3.ap-southeast-2.amazonaws.com/index.html
+back end API URL : https://convertod-env.eba-xyiimhck.ap-southeast-2.elasticbeanstalk.com
