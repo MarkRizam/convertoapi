@@ -18,6 +18,19 @@ namespace ConvertoApi
         {
             services.AddControllers();
 
+                // Define the CORS policy
+                services.AddCors(options =>
+                {
+                    options.AddPolicy("AllowAllOrigins",
+                        builder =>
+                        {
+                            builder.AllowAnyOrigin()
+                                   .AllowAnyMethod()
+                                   .AllowAnyHeader();
+                        });
+                });
+
+            
             // Register the Swagger generator
             services.AddSwaggerGen(c =>
             {
