@@ -12,6 +12,7 @@ namespace ConvertoApi.Controllers
 
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("AllowAllOrigins")]
     public class ConvertController : ControllerBase
     {
         private readonly ILogger<ConvertController> _logger;
