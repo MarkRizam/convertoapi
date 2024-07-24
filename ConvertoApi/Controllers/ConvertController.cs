@@ -3,6 +3,8 @@ using ConvertoApi.Utilities;
 using Microsoft.AspNetCore.Mvc;
 using ConvertoApi.Utilities;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Cors;
+
 
 namespace ConvertoApi.Controllers
 {
