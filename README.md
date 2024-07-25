@@ -175,4 +175,5 @@ ConvertoApi/
 References:
 front end git : https://github.com/MarkRizam/converto.git
 front end URL : https://converto.s3.ap-southeast-2.amazonaws.com/index.html
-back end API URL : https://convertod-env.eba-xyiimhck.ap-southeast-2.elasticbeanstalk.com
+back end API URL : https://d29cj64b482wgp.cloudfront.net/api/Convert
+
