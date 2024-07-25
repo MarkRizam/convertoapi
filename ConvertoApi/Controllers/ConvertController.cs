@@ -60,7 +60,7 @@ namespace ConvertoApi.Controllers
 
             _logger.LogInformation("Conversion result: {Result}", result);
 
-            return Ok(result);
+             return Ok(new { words = result }); // Return as JSON with a key
         }
     }
 }
